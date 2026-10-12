@@ -1,2 +1,2 @@
 # cs-journey
-记录大学计算机的学习过程
+just my thoughts about my schools classes
